@@ -1,0 +1,4 @@
+#ifndef CPP_FIXEDQUEUE_H
+#define CPP_FIXEDQUEUE_H
+
+#endif //CPP_FIXEDQUEUE_H

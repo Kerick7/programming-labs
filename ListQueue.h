@@ -1,0 +1,4 @@
+#ifndef CPP_LISTQUEUE_H
+#define CPP_LISTQUEUE_H
+
+#endif //CPP_LISTQUEUE_H
