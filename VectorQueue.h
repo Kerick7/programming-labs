@@ -2,7 +2,6 @@
 #define CPP_VECTORQUEUE_H
 
 #include <iostream>
-#include <ostream>
 #include <vector>
 #include "Queue.h"
 using namespace std;
@@ -11,7 +10,7 @@ class VectorQueue : public Queue{
 private:
     vector<Rectangle> data;
 public:
-    ~VectorQueue(){};
+    ~VectorQueue(){}
 
     void enqueue(Rectangle rect) {
         data.push_back(rect);
