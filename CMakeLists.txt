@@ -9,7 +9,8 @@ add_executable(lab2a
         lab2a/Queue.h
         lab2a/FixedQueue.h
         lab2a/VectorQueue.h
-        lab2a/ListQueue.h)
+        lab2a/ListQueue.h
+        lab2a/PriorityQueue.h
+        lab2a/PriorityQueue.h
+        lab2a/PriorityQueue.h)
 
-add_executable(lab2b
-        lab2b/main.cpp)
