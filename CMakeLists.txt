@@ -3,14 +3,14 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(lab2a
-        lab2a/main.cpp
-        lab2a/Rectangle.h
-        lab2a/Queue.h
-        lab2a/FixedQueue.h
-        lab2a/VectorQueue.h
-        lab2a/ListQueue.h
-        lab2a/PriorityQueue.h
-        lab2a/PriorityQueue.h
-        lab2a/PriorityQueue.h)
+add_executable(lab2
+        lab2/main.cpp
+        lab2/Rectangle.h
+        lab2/Queue.h
+        lab2/FixedQueue.h
+        lab2/VectorQueue.h
+        lab2/ListQueue.h
+        lab2/PriorityQueue.h
+        lab2/PriorityQueue.h
+        lab2/PriorityQueue.h)
 
