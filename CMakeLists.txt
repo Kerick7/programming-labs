@@ -1,16 +1,13 @@
 cmake_minimum_required(VERSION 4.1)
-project(cpp)
+project(untitled2)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(lab2
-        lab2/main.cpp
-        lab2/Rectangle.h
-        lab2/Queue.h
-        lab2/FixedQueue.h
-        lab2/VectorQueue.h
-        lab2/ListQueue.h
-        lab2/PriorityQueue.h
-        lab2/PriorityQueue.h
-        lab2/PriorityQueue.h)
-
+add_executable(untitled2 main.cpp
+        additional.h
+        additional.cpp
+        sorts.h
+        sorts.cpp
+        models.h
+        advanced_sorts.h
+        advances_sorts.cpp)
